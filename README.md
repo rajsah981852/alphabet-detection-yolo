@@ -12,9 +12,9 @@ The system takes an input image, detects individual characters using a trained Y
 
 ## Features
 
-* Detection of alphabets and digits from images.
-* Supports multiple characters in a single image.
-* Left-to-right sorting for correct sequence generation.
+* Detection of alphabets and digits from images
+* Supports multiple characters in a single image
+* Left-to-right sorting for correct sequence generation
 * Confidence-based filtering
 * Duplicate removal using distance threshold
 * Streamlit-based UI for uploading images
